@@ -1,0 +1,38 @@
+# Historias de Usuario para Spotify
+
+## Historia de Usuario 1: Modo Estudio
+**Como** estudiante que usa Spotify para concentrarse,  
+**quiero** un modo especial que filtre canciones sin letra,  
+**para** poder escuchar música instrumental mientras estudio sin distracciones.
+
+### Criterios de aceptación
+- El usuario puede activar/desactivar el “Modo Estudio” desde la configuración o directamente en el reproductor.  
+- Al activarse, Spotify sugiere playlists y canciones instrumentales automáticamente.  
+- El modo se mantiene activo hasta que el usuario lo desactive manualmente.  
+- El usuario puede personalizar géneros preferidos (ej. piano, lo-fi, jazz).  
+
+---
+
+## 🎶 Historia de Usuario 2: Recordatorios de Playlist
+**Como** oyente que crea playlists para diferentes momentos del día,  
+**quiero** programar recordatorios para escuchar una playlist específica,  
+**para** que Spotify me sugiera la música adecuada en el momento correcto.
+
+### Criterios de aceptación
+- El usuario puede asignar horarios a playlists (ej. “Workout” a las 7 AM).  
+- Spotify envía una notificación en el dispositivo a la hora programada.  
+- El recordatorio incluye acceso directo a la playlist.  
+- El usuario puede editar o eliminar recordatorios fácilmente.  
+
+---
+
+## Historia de Usuario 3: Karaoke Integrado
+**Como** fanático de cantar,  
+**quiero** un modo karaoke que muestre la letra sincronizada y permita bajar el volumen de la voz original,  
+**para** poder cantar sobre la pista como si fuera un karaoke real.
+
+### Criterios de aceptación
+- El usuario puede activar el “Modo Karaoke” desde el reproductor.  
+- La letra aparece sincronizada con la música en pantalla.  
+- El volumen de la voz original se reduce automáticamente, manteniendo la pista instrumental.  
+- El usuario puede grabar su interpretación y guardarla localmente.  
